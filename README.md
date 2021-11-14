@@ -1,5 +1,5 @@
 # react-jsconfig.json
-go to react component after click on a component
+go to the react component after click on a component
 
 jsconfig.json:
 ```
